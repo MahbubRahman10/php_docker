@@ -1,0 +1,15 @@
+main {
+    width: 50%;
+    margin: 50px auto;
+    text-align: center;
+}
+
+h1{
+
+    color: blue;
+}
+img{
+
+    height: 400px;
+    width:  400px;
+}
