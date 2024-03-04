@@ -12,6 +12,8 @@
    
 
 	<h1>PHP Docker Practice</h1>
+
+	<p>Added Docker volume mount for project directory Successfully</p>
 	<img src="public/images/docker.png">
 
 </body>
