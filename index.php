@@ -1,3 +1,4 @@
+<?php include 'db/dbConnect.php';  ?>
 <!DOCTYPE html>
 <html lang="en">
 
@@ -15,6 +16,8 @@
 
 	<p>Added Docker volume mount for project directory Successfully</p>
 	<img src="public/images/docker.png">
+
+	
 
 </body>
 

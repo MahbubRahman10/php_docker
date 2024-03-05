@@ -1,3 +1,4 @@
 FROM php:7.4-apache
-COPY . .
-EXPOSE 80
+WORKDIR /var/www/html
+RUN apt-get update && apt-get -y install libmariadb-dev
+RUN docker-php-ext-install mysqli 
